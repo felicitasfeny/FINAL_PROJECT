@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_menu"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/ly1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/width2"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_belajar"
+            android:layout_width="135dp"
+            android:layout_height="@dimen/width2"
+            android:layout_marginBottom="@dimen/padding"
+            android:layout_marginTop="@dimen/width2"
+            android:background="@android:color/transparent"
+            android:onClick="belajar"/>
+
+        <Button
+            android:id="@+id/btn_nyanyi"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="60dp"
+            android:background="@android:color/transparent"
+            android:onClick="nyanyi"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_main"
+        android:layout_width="185dp"
+        android:layout_height="@dimen/width2"
+        android:layout_below="@id/ly1"
+        android:layout_alignParentEnd="true"
+        android:background="@android:color/transparent"
+        android:onClick="main"/>
+
+</RelativeLayout>

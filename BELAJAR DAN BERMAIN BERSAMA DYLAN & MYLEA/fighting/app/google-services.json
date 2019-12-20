@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1011874363405",
+    "firebase_url": "https://testugasakhir-f950a.firebaseio.com",
+    "project_id": "testugasakhir-f950a",
+    "storage_bucket": "testugasakhir-f950a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011874363405:android:f6e17c4d8dcd8ce0bf7d44",
+        "android_client_info": {
+          "package_name": "com.example.fighting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011874363405-5vuu2bm804kurl0j3ehbr06frrb4edpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fighting",
+            "certificate_hash": "639cef1e2dab7e03ee941244ad1c59718479266e"
+          }
+        },
+        {
+          "client_id": "1011874363405-f1cb5gt6p6ts4fak4vkm39dl13u978n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGb74lLXjByezXpLL3flVHCEyZNudwsDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011874363405-f1cb5gt6p6ts4fak4vkm39dl13u978n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

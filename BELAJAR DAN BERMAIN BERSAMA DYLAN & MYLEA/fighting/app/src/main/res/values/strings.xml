@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Dylan dan Mylea</string>
+    <string name="satu">BELAJAR</string>
+    <string name="dua">BERNYANYI</string>
+    <string name="tiga">BERMAIN</string>
+
+    <string name="main1">MAIN</string>
+    <string name="main2">MENU</string>
+
+    <string name="belajar1">ABJAD</string>
+    <string name="belajar2">ANGKA</string>
+    <string name="belajar3">BUAH</string>
+    <string name="belajar4">HEWAN</string>
+    <string name="belajar5">TRANSPORTASI</string>
+    <string name="belajar6">WARNA</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">BALONKU</string>
+
+
+    <string name="slide_1_title">Hello Food!</string>
+    <string name="slide_1_desc">The easiest way to order food from your favourite restaurant!</string>
+
+    <string name="slide_2_title">Movie Tickets</string>
+    <string name="slide_2_desc">Book movie tickets for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+    <string name="kendaraan1">
+        <b>DELMAN</b> (<i>Delman</i>)
+    </string>
+    <string name="kendaraan11">merupakan transportasi darat yang dikemudikan oleh seorang pak kusir dengan menggunakan tenaga kuda</string>
+
+    <string name="kendaraan2">
+        <b>KAPAL</b> (<i>Ship</i>)
+    </string>
+    <string name="kendaraan22">merupakan transportasi air yang dikemudikan oleh seorang nahkoda</string>
+
+    <string name="kendaraan3">
+        <b>KERETA API</b> (<i>Train</i>)
+    </string>
+    <string name="kendaraan33">merupakan transportasi darat yang dikemudikan oleh seorang masinis</string>
+
+    <string name="kendaraan4">
+        <b>MOBIL</b> (<i>Car</i>)
+    </string>
+    <string name="kendaraan44">merupakan transportasi darat yang dikemudikan oleh seorang supir</string>
+
+    <string name="kendaraan5">
+        <b>DELMAN</b> (<i>Airplane</i>)
+    </string>
+    <string name="kendaraan55">merupakan transportasi udara yang dikemudikan oleh seorang pilot</string>
+
+    <string name="hewan1">
+        <b>ANJING</b> (<i>Dog</i>)
+    </string>
+    <string name="hewan11">merupakan hewan berkaki 4 dengan tubuh yang ditutupi bulu</string>
+
+    <string name="hewan2">
+        <b>BUAYA</b> (<i>Crocodile</i>)
+    </string>
+    <string name="hewan22">merupakan hewan berkaki 4 dengan tubuh yang ditutupi sisik yang dapat dimanfaatkan sebagai bahan kerajinan tangan</string>
+
+    <string name="hewan3">
+        <b>JERAPAH</b> (<i>Giraffe</i>)
+    </string>
+    <string name="hewan33">merupakan hewan berkaki 4 dengan leher yang panjang</string>
+
+    <string name="hewan4">
+        <b>PANDA</b> (<i>Panda</i>)
+    </string>
+    <string name="hewan44">merupakan hewan berkaki 4 dengan tubuh yang ditutupi bulu dan berwarna putih-hitam</string>
+
+    <string name="hewan5">
+        <b>SINGA</b> (<i>Lion</i>)
+    </string>
+    <string name="hewan55">merupakan hewan berkaki 4 dengan tubuh yang ditutupi bulu dan memiliki rambut keribo</string>
+
+    <string name="buah1">
+        <b>ANGGUR</b> (<i>Grape</i>)
+    </string>
+    <string name="buah11">pada umumnya berwarna ungu dan juga terdapat yang berwarna hijau, dengan besar buah lebih kecil dari bola pimpong</string>
+
+    <string name="buah2">
+        <b>APEL</b> (<i>Aple</i>)
+    </string>
+    <string name="buah22">pada umumnya berwarna merah dan juga terdapat yang berwarna hijau, serta memiliki biji</string>
+
+    <string name="buah3">
+        <b>JERUK</b> (<i>Orange</i>)
+    </string>
+    <string name="buah33">pada umumnya berwarna orange kekuningan dan juga terdapat yang berwarna hijau, dengan isi buah terbagi beberapa bagian</string>
+
+    <string name="buah4">
+        <b>PISANG</b> (<i>Banana</i>)
+    </string>
+    <string name="buah44">pada umumnya berwarna kuning dengan bentuk memanjang dan hidup berdempetan setiap buahnya seperti sisir</string>
+
+    <string name="buah5">
+        <b>SEMANGKA</b> (<i>Watermelon</i>)
+    </string>
+    <string name="buah55">pada umumnya berwarna hijau loreng putih dengan isi buah berwarna merah dan juga terdapat yang berwarna kuning</string>
+
+    <string name="lagu1">
+        Kasih ibu
+        \n
+        Kepada beta
+        \n
+        Tak terhingga sepanjang masa
+        \n
+        Hanya memberi
+        \n
+        Tak harap kembali
+        \n
+        Bagai sang surya menyinari dunia
+    </string>
+
+    <string name="lagu2">
+        Balonku ada lima
+        \n
+Rupa-rupa warnanya
+        \n
+Hijau, Kuning, Kelabu
+        \n
+Merah muda dan Biru
+        \n
+Meletus balon hijau
+        \n
+        DOR
+        \n
+Hatiku sangat kacau
+        \n
+Balonku tinggal empat
+        \n
+Kupegang erat-erat
+    </string>
+
+    <string name="lagu3">
+        Bintang kecil, di langit yang tinggi
+        \n
+Amat banyak, menghias angkasa
+        \n
+Aku ingin, terbang dan menari
+        \n
+Jauh tinggi ke tempat kau berada
+    </string>
+</resources>

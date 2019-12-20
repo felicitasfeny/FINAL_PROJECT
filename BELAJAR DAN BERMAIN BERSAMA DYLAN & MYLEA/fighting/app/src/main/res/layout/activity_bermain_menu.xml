@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bermain"
+    tools:context=".BermainMenuActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:paddingTop="175dp"
+        android:paddingLeft="60dp"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btn_menUtama"
+            android:layout_width="125dp"
+            android:layout_height="75dp"
+            android:background="@android:color/transparent"
+            android:onClick="menUtama"/>
+
+        <Button
+            android:id="@+id/btn_MulaiMain"
+            android:background="@android:color/transparent"
+            android:layout_width="125dp"
+            android:layout_height="75dp"
+            android:layout_marginLeft="90dp"
+            android:onClick="MulaiMain"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

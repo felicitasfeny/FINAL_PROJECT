@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/belajar_menu"
+    tools:context=".BelajarMenuActivity">
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="305dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:paddingBottom="@dimen/dots_height"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/belajar1"
+            android:layout_width="@dimen/width2"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:background="@android:color/transparent"
+            android:onClick="warna" />
+
+        <Button
+            android:id="@+id/belajar2"
+            android:layout_width="@dimen/width2"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="5dp"
+            android:background="@android:color/transparent"
+            android:onClick="transportasi"/>
+
+        <Button
+            android:id="@+id/belajar3"
+            android:layout_width="@dimen/width2"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="@dimen/padding"
+            android:background="@android:color/transparent"
+            android:onClick="buah"/>
+
+        <Button
+            android:id="@+id/belajar4"
+            android:layout_width="@dimen/width2"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="5dp"
+            android:background="@android:color/transparent"
+            android:onClick="hewan"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>
